@@ -1,3 +1,1 @@
-# Template
-
-Template repository.
+# Arduino Examples
